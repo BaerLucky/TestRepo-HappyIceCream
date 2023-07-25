@@ -6,7 +6,7 @@
 
 This is a project from Codecademy.com. I was learning about Git and GitHub in this lesson. It was designed to get students aquainted wth creating repositories on GitHub via the VS Code terminal using git (Gitbash).
 
-I have to say, I learned an alot in this lesson. I am pretty much a self-taught developer, even though i am taking this online course, they still throw you into the fire and you have to figure alot of this out on your own. I do think this will definately help me out in the long run though!
+I have to say, I learned an alot in this lesson. I am pretty much a self-taught developer, even though i was taking this online course, and am currently learning lessons on FreeCodeCamp.org they still make you figure alot of this out on your own. I do think this will definately help me out in the long run though!
 
 ## Features-Technologies-Collaborators
 
